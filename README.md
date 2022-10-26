@@ -1,1 +1,1 @@
-My itch.io page - https://red-tourist.itch.io
+My itch.io page - ihor-kravets.itch.io
