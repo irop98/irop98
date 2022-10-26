@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @irop98
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Godot, C# and Unity3D.
-- My itch.io page - https://red-tourist.itch.io
+My itch.io page - https://red-tourist.itch.io
